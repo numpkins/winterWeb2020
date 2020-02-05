@@ -1,0 +1,29 @@
+
+html, body {
+ height: 100%;
+ margin: 0;
+ padding: 0;
+}
+
+body {
+  background-color: #fad1ff;
+}
+
+.sit {
+  position: absolute;
+  padding-left: 300px;
+  padding-top: 150px;
+}
+
+.about {
+color: #755182;
+top: 200px;
+left: 700px;
+position:absolute;
+font-family: 'Coda', cursive;
+}
+
+a {
+text-decoration: none;
+
+}

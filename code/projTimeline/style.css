@@ -1,0 +1,84 @@
+/* COLOR SCHEME
+
+#4C5760 - INDEPENDENCE
+#93A8AC - CADET GRAY
+#D7CEB2 - PASTEL GRAY
+#A59E8C - GRULLO
+#66635B - GRANITE GRAY
+#353B3C - ONYX
+*/
+
+html, body {
+ height: 100%;
+ margin: 0;
+ padding: 0;
+ background-color: #66635B;
+}
+
+h1{
+  font-size: 60px;
+}
+
+h1, h2 {
+  font-family: 'Chelsea Market', cursive;
+  color: #A59E8C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+p {
+  font-family: 'Caudex', serif;
+  color: #D7CEB2;
+}
+
+.content {
+  align-items: center;
+  margin: 100px;
+  padding: 25px 100px;
+  background-color: #4C5760;
+}
+
+
+/* Title Styling */
+
+.placeholder {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 150px;
+border: none;
+}
+
+/* Date 1 Styling */
+
+.date1 {
+
+padding: -40px 20px 40px -100px ;
+margin: 100px ;
+}
+
+
+.funbtn {
+  color: #D7CEB2;
+  text-decoration: none;
+}
+
+.slots {
+  display: grid;
+  /grid-template-rows: 150px 150px 150px;
+  grid-template-columns: 150px;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  padding: 30px;
+  margin: -600px 0px 0px 750px;
+}
+
+
+.grid-item {
+  border: 1px solid #D7CEB2;
+  padding: 50px;
+  font-size: 30px;
+  text-align: center;
+}

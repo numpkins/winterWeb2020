@@ -1,0 +1,99 @@
+/* Welcome to my Webpage
+Under construction sign
+Starry background
+Free Web Elements
+Links
+MIDI
+Frames
+Tilde ~~
+Email
+*/
+html, body {
+ height: 115%;
+ width:100%;
+ margin: 0;
+ padding: 0;
+ background-color: #2D383A;
+
+}
+
+body {
+  background-image: url("file:///C:/Users/pipca/Desktop/WEB%20DESIGN/code/reading2/Elements/2019-deep-space-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content {
+position: absolute;
+width:100%
+}
+
+.welcome {
+  top: 30px;
+  left: 600px;
+position: absolute;
+}
+
+
+.tilde {
+  color: white;
+  position: absolute;
+  font-size: 40px;
+  top: -80px;
+  left: 750px;
+  transform: rotate(-90deg);
+}
+
+.congrats {
+  top: 390px;
+  left: 800px;
+position: absolute;
+
+}
+
+.sexyBanner {
+  top: 100px;
+  left: 410px;
+position: absolute;
+
+}
+
+.pupLine {
+
+  top: 700px;
+  left: 410px;
+  position: absolute;
+
+}
+
+.animexD {
+
+top: 440px;
+left: 950px;
+position: absolute;
+
+}
+
+.neoByl {
+top:270px;
+left: 200px;
+position: absolute;
+
+}
+
+.confession {
+  top: 370px;
+  left: -300px;
+  position: absolute;
+padding-right: 800px;
+padding-left: 500px;
+  color: white;
+
+}
+
+.hippo {
+  top: 550px;
+  left: 270px;
+  position: absolute;
+
+}

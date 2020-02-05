@@ -1,0 +1,103 @@
+html, body {
+ height: 110%;
+ margin: 0;
+ padding: 0;
+ position: fixed;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  background: red;
+  border-radius: 50%;
+  position: relative;
+  top: 155px;
+  left: 120px;
+  opacity: 55%;
+}
+
+.circle2 {
+  width: 200px;
+  height: 350px;
+  background: red;
+  border-radius: 50%;
+  position: fixed;
+  opacity: 40%;
+  top: 295px;
+  left: 490px;
+}
+
+.circle3 {
+  width: 100px;
+  height: 70px;
+  background: red;
+  border-radius: 50%;
+  position: fixed;
+  top: 495px;
+  left: 120px;
+  opacity: 75%;
+}
+
+.circle4 {
+  width: 140px;
+  height: 140px;
+  background: red;
+  border-radius: 50%;
+  position: fixed;
+  top: 155px;
+  left: 900px;
+  opacity: 35%;
+}
+
+.circle5 {
+  width: 240px;
+  height: 140px;
+  background: red;
+  border-radius: 50%;
+  position: fixed;
+  top: 535px;
+  left: 1150px;
+  opacity: 15%;
+}
+
+.content {
+font-family: 'Lusitana', serif;
+padding: 55px 0px 0px 0px;
+margin: -170px 0px 100px 155px;
+
+}
+
+.fact1 {
+font-kerning: none;
+font-size: 16px;
+
+}
+
+.fact2 {
+  font-size: 25px;
+  padding: 10px 10px 10px 200px;
+}
+
+.fact3 {
+  font-size: 40px;
+}
+
+.fact4 {
+  font-size: 60px;
+  padding: 0px 10px 0px 200px;
+}
+
+.fact5 {
+  text-align: center;
+  padding: 0px 0px 20px 180px;
+}
+
+.fact6 {
+  text-align: right;
+  font-size: 25px;
+  padding:
+}
+
+.net {
+  color: red;
+}
